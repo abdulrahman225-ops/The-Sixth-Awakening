@@ -1,0 +1,403 @@
+{
+  "frames": {
+    "dream-engine_00": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "dream-engine_01": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "dream-engine_02": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 1024,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "dream-engine_03": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 1536,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "throne-brazier_00": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "throne-brazier_01": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 512,
+        "y": 512,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "throne-brazier_02": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 1024,
+        "y": 512,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "throne-brazier_03": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 1536,
+        "y": 512,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "captive-shackle_00": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 125,
+      "frame": {
+        "x": 0,
+        "y": 1024,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "captive-shackle_01": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 125,
+      "frame": {
+        "x": 512,
+        "y": 1024,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "captive-shackle_02": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 125,
+      "frame": {
+        "x": 1024,
+        "y": 1024,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "captive-shackle_03": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 125,
+      "frame": {
+        "x": 1536,
+        "y": 1024,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "royal-banner_00": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 0,
+        "y": 1536,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "royal-banner_01": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 512,
+        "y": 1536,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "royal-banner_02": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 1024,
+        "y": 1536,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    },
+    "royal-banner_03": {
+      "rotated": false,
+      "sourceSize": {
+        "h": 512,
+        "w": 512
+      },
+      "duration": 167,
+      "frame": {
+        "x": 1536,
+        "y": 1536,
+        "h": 512,
+        "w": 512
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "h": 512,
+        "w": 512
+      },
+      "trimmed": false
+    }
+  },
+  "meta": {
+    "format": "RGBA8888",
+    "size": {
+      "h": 2048,
+      "w": 2048
+    },
+    "image": "06b-real-throne-room-atlas.png",
+    "scale": "1",
+    "frameTags": [
+      {
+        "fps": 6,
+        "from": 0,
+        "to": 3,
+        "name": "dream-engine",
+        "loop": true,
+        "direction": "forward",
+        "pivot": {
+          "x": 0.5,
+          "y": 0.875
+        },
+        "anchor": "bottom"
+      },
+      {
+        "fps": 6,
+        "from": 4,
+        "to": 7,
+        "name": "throne-brazier",
+        "loop": true,
+        "direction": "forward",
+        "pivot": {
+          "x": 0.5,
+          "y": 0.875
+        },
+        "anchor": "bottom"
+      },
+      {
+        "fps": 8,
+        "from": 8,
+        "to": 11,
+        "name": "captive-shackle",
+        "loop": false,
+        "direction": "forward",
+        "pivot": {
+          "x": 0.5,
+          "y": 0.125
+        },
+        "anchor": "top"
+      },
+      {
+        "fps": 6,
+        "from": 12,
+        "to": 15,
+        "name": "royal-banner",
+        "loop": true,
+        "direction": "forward",
+        "pivot": {
+          "x": 0.5,
+          "y": 0.125
+        },
+        "anchor": "top"
+      }
+    ]
+  }
+}

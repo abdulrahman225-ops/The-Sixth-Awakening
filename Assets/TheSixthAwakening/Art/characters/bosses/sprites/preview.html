@@ -1,0 +1,16 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Dream bosses — animation preview</title>
+<style>body{margin:28px;background:#17191e;color:#eee;font:16px system-ui}h1{font-size:28px}p{max-width:950px;line-height:1.6}button,select,input{font:inherit;margin:6px;padding:8px}main{display:flex;flex-wrap:wrap;gap:22px}canvas{width:320px;height:320px;background-color:#c8c8c8;background-image:conic-gradient(#999 25%,transparent 0 50%,#999 0 75%,transparent 0);background-size:24px 24px;border:1px solid #777}h2{font-size:19px}a{color:#f5c889}</style>
+<h1>The Sixth Awakening · Dream bosses</h1><p>Five animated boss sets. Ancient Collector retained; Dream Sovereign excluded. Each action has four frames. These are short prototype animation cycles; final combat timing and motion polish belong in the game.</p>
+<label>Action <select id="action"><option>Idle</option><option>Walk</option><option>Run</option><option>Jump</option><option>Attack</option><option>Death</option></select></label>
+<label>FPS <input id="fps" type="number" min="1" max="24" value="8"></label><button id="play">Pause</button><button id="replay">Replay</button><button id="step">Next frame</button><label><input id="flip" type="checkbox">Face left</label><p id="status"></p><main id="cards"></main>
+<script>
+const names=["01-iron-gaoler","02-red-huntress","03-collector","04-mercy-priest","05-mirror-knight"],items=[],action=document.querySelector('#action');let frame=0,playing=true,last=0;
+for(const name of names){const card=document.createElement('section'),title=document.createElement('h2'),canvas=document.createElement('canvas'),img=new Image(),link=document.createElement('a');title.textContent=name.slice(3).replaceAll('-',' ');canvas.width=canvas.height=384;link.href=name+'-atlas.png';link.textContent='Open sprite atlas';card.append(title,canvas,document.createElement('br'),link);document.querySelector('#cards').append(card);items.push({img,canvas});img.onload=draw;img.onerror=()=>title.textContent+=' — image load failed';img.src=name+'-atlas.png';}
+function draw(){for(const {img,canvas} of items){const ctx=canvas.getContext('2d');ctx.clearRect(0,0,384,384);if(!img.complete||!img.naturalWidth)continue;ctx.save();if(document.querySelector('#flip').checked){ctx.translate(384,0);ctx.scale(-1,1)}ctx.drawImage(img,frame*384,action.selectedIndex*384,384,384,0,0,384,384);ctx.restore();}document.querySelector('#status').textContent=action.value+' · Frame '+(frame+1)+' / 4';}
+function advance(){frame=action.selectedIndex<3?(frame+1)%4:Math.min(3,frame+1);draw()}
+document.querySelector('#play').onclick=()=>{playing=!playing;document.querySelector('#play').textContent=playing?'Pause':'Play'};
+document.querySelector('#replay').onclick=()=>{frame=0;last=performance.now();draw()};
+document.querySelector('#step').onclick=()=>{playing=false;document.querySelector('#play').textContent='Play';frame=(frame+1)%4;draw()};
+action.onchange=()=>{frame=0;draw()};document.querySelector('#flip').onchange=draw;
+function tick(t){if(playing&&t-last>=1000/Math.max(1,Math.min(24,Number(document.querySelector('#fps').value)||8))){last=t;advance()}requestAnimationFrame(tick)}requestAnimationFrame(tick);
+</script></html>

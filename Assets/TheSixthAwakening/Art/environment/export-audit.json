@@ -1,0 +1,226 @@
+[
+  {
+    "uniqueFrames": 4,
+    "level": "01-shifting-prison",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "hanging-chain",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "01-shifting-prison",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "wall-brazier",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "01-shifting-prison",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "cell-gate",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "01-shifting-prison",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "chain-winch",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "02-burning-rooftops",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "torn-banner",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "02-burning-rooftops",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "smoking-chimney",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "02-burning-rooftops",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "burning-timber",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "02-burning-rooftops",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "roof-hatch",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "03-hall-of-stolen-voices",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "voice-vessel",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "03-hall-of-stolen-voices",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "resonance-bell",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "03-hall-of-stolen-voices",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "voice-cabinet",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "03-hall-of-stolen-voices",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "resonator-wheel",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "04-corrupted-sanctuary",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "candle-stand",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "04-corrupted-sanctuary",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "sanctuary-drape",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "04-corrupted-sanctuary",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "false-reunion-shrine",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "04-corrupted-sanctuary",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "sanctuary-door",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "05-mirror-arena",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "cracked-mirror",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "05-mirror-arena",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "orbiting-shards",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "05-mirror-arena",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "guardian-standard",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "05-mirror-arena",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "mirror-seal",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "06a-collapsing-dream-arena",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "floating-rubble",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "06a-collapsing-dream-arena",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "reality-rift",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "06a-collapsing-dream-arena",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "dream-chain",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "06a-collapsing-dream-arena",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "fracturing-pillar",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "06b-real-throne-room",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "dream-engine",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "06b-real-throne-room",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "throne-brazier",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "06b-real-throne-room",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "captive-shackle",
+    "transparentCorners": true
+  },
+  {
+    "uniqueFrames": 4,
+    "level": "06b-real-throne-room",
+    "frameCount": 4,
+    "dimensions": "512x512",
+    "prop": "royal-banner",
+    "transparentCorners": true
+  }
+]

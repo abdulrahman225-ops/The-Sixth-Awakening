@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><title>The Sixth Awakening — Animation review</title>
+<style>body{margin:32px;background:#17191e;color:#eee;font:16px system-ui}h1{font-size:28px}button,select,input{font:inherit;margin:8px;padding:8px}main{display:flex;flex-wrap:wrap;gap:24px}canvas{width:314px;height:314px;background-color:#ddd;background-image:conic-gradient(#aaa 25%,transparent 0 50%,#aaa 0 75%,transparent 0);background-size:24px 24px;border:1px solid #777}p{max-width:900px;line-height:1.6}small{color:#c5b99f}</style>
+<h1>The Sixth Awakening · Animation review</h1>
+<p>Transparent sprite drafts. This preview uses equal-grid slicing to expose alignment issues. Some weapon poses cross cell boundaries; these sheets need cleanup before production use.</p>
+<label>Animation <select id="animation"><option>Idle</option><option>Walk</option><option>Run</option><option>Jump</option><option>Attack</option><option>Death</option></select></label>
+<label>Frames/sec <input id="speed" type="number" min="1" max="24" value="8"></label>
+<button id="play">Pause</button><button id="restart">Replay</button><button id="step">Next frame</button><label><input type="checkbox" id="flip">Face left</label>
+<p id="status"></p><main id="cards"></main>
+<p><small>Rows: idle, walk, run, jump, attack, death. Six frames each. Actual sheet: 1254 × 1254; nominal cell: 209 × 209. Idle, walk and run loop; other actions hold their last frame. Timing is provisional.</small></p>
+<script>
+const names=['kael','mira','veyr'],items=[],select=document.querySelector('#animation'),speed=document.querySelector('#speed');
+let frame=0,playing=true,last=0;
+for(const name of names){const card=document.createElement('section'),title=document.createElement('h2'),canvas=document.createElement('canvas'),img=new Image();title.textContent=name[0].toUpperCase()+name.slice(1);canvas.width=canvas.height=314;card.append(title,canvas);document.querySelector('#cards').append(card);img.onload=()=>draw();img.onerror=()=>{title.textContent+=' — image failed to load'};img.src=name+'-animations-draft-v1.png';items.push({img,canvas});}
+function draw(){for(const {img,canvas} of items){const ctx=canvas.getContext('2d');ctx.clearRect(0,0,314,314);if(!img.complete||!img.naturalWidth)continue;ctx.save();if(document.querySelector('#flip').checked){ctx.translate(314,0);ctx.scale(-1,1);}ctx.drawImage(img,frame*209,select.selectedIndex*209,209,209,0,0,314,314);ctx.restore();}document.querySelector('#status').textContent=select.value+' · Frame '+(frame+1)+' / 6';}
+function advance(){frame=select.selectedIndex<3?(frame+1)%6:Math.min(5,frame+1);draw();}
+document.querySelector('#play').onclick=()=>{playing=!playing;document.querySelector('#play').textContent=playing?'Pause':'Play'};
+document.querySelector('#restart').onclick=()=>{frame=0;last=performance.now();draw()};
+document.querySelector('#step').onclick=()=>{playing=false;document.querySelector('#play').textContent='Play';frame=(frame+1)%6;draw()};
+select.onchange=()=>{frame=0;draw()};document.querySelector('#flip').onchange=draw;
+function tick(t){const fps=Math.max(1,Math.min(24,Number(speed.value)||8));if(playing&&t-last>=1000/fps){last=t;advance()}requestAnimationFrame(tick)}requestAnimationFrame(tick);
+</script></html>

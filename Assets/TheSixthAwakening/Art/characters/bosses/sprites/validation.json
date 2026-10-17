@@ -1,0 +1,47 @@
+[
+  {
+    "oneMainComponentPerFrame": true,
+    "allFramesInsidePaddedCells": true,
+    "alphaCorner": 0,
+    "name": "01-iron-gaoler",
+    "sourceWidth": 1024,
+    "sourceHeight": 1536,
+    "frames": 24
+  },
+  {
+    "oneMainComponentPerFrame": true,
+    "allFramesInsidePaddedCells": true,
+    "alphaCorner": 0,
+    "name": "02-red-huntress",
+    "sourceWidth": 1024,
+    "sourceHeight": 1536,
+    "frames": 24
+  },
+  {
+    "oneMainComponentPerFrame": true,
+    "allFramesInsidePaddedCells": true,
+    "alphaCorner": 0,
+    "name": "03-collector",
+    "sourceWidth": 1024,
+    "sourceHeight": 1536,
+    "frames": 24
+  },
+  {
+    "oneMainComponentPerFrame": true,
+    "allFramesInsidePaddedCells": true,
+    "alphaCorner": 0,
+    "name": "04-mercy-priest",
+    "sourceWidth": 1024,
+    "sourceHeight": 1536,
+    "frames": 24
+  },
+  {
+    "oneMainComponentPerFrame": true,
+    "allFramesInsidePaddedCells": true,
+    "alphaCorner": 0,
+    "name": "05-mirror-knight",
+    "sourceWidth": 1024,
+    "sourceHeight": 1536,
+    "frames": 24
+  }
+]

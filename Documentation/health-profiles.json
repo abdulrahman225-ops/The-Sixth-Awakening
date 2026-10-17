@@ -1,0 +1,116 @@
+{
+  "status": "Proposed starting values, not playtested balance. Apply manually to HealthComponent; this file is documentation, not an automatic loader.",
+  "states": {
+    "healthy": ">50%",
+    "wounded": ">25% to 50%",
+    "critical": ">0% to 25%",
+    "dead": "0"
+  },
+  "profiles": [
+    {
+      "name": "Kael",
+      "maxHealth": 100,
+      "kind": "player"
+    },
+    {
+      "name": "Mira",
+      "maxHealth": 100,
+      "kind": "player"
+    },
+    {
+      "name": "Chain Guard",
+      "maxHealth": 40,
+      "kind": "enemy"
+    },
+    {
+      "name": "Shackled Wretch",
+      "maxHealth": 30,
+      "kind": "enemy"
+    },
+    {
+      "name": "Ember Stalker",
+      "maxHealth": 40,
+      "kind": "enemy"
+    },
+    {
+      "name": "Ash Archer",
+      "maxHealth": 30,
+      "kind": "enemy"
+    },
+    {
+      "name": "Whisper Husk",
+      "maxHealth": 35,
+      "kind": "enemy"
+    },
+    {
+      "name": "Voice Keeper",
+      "maxHealth": 45,
+      "kind": "enemy"
+    },
+    {
+      "name": "Hollow Acolyte",
+      "maxHealth": 35,
+      "kind": "enemy"
+    },
+    {
+      "name": "Penitent Sentinel",
+      "maxHealth": 70,
+      "kind": "enemy"
+    },
+    {
+      "name": "Mirror Shade",
+      "maxHealth": 45,
+      "kind": "enemy"
+    },
+    {
+      "name": "Fractured Guardian",
+      "maxHealth": 65,
+      "kind": "enemy"
+    },
+    {
+      "name": "Dream Remnant",
+      "maxHealth": 50,
+      "kind": "enemy"
+    },
+    {
+      "name": "Throne Guard",
+      "maxHealth": 80,
+      "kind": "enemy"
+    },
+    {
+      "name": "Iron Gaoler",
+      "maxHealth": 450,
+      "kind": "boss"
+    },
+    {
+      "name": "Red Huntress",
+      "maxHealth": 400,
+      "kind": "boss"
+    },
+    {
+      "name": "Collector",
+      "maxHealth": 500,
+      "kind": "boss"
+    },
+    {
+      "name": "Mercy Priest",
+      "maxHealth": 550,
+      "kind": "boss"
+    },
+    {
+      "name": "Mirror Knight",
+      "maxHealth": 600,
+      "kind": "boss"
+    },
+    {
+      "name": "Dream Sovereign",
+      "maxHealth": 750,
+      "kind": "boss"
+    },
+    {
+      "name": "Veyr",
+      "maxHealth": 800,
+      "kind": "boss"
+    }
+  ]
+}

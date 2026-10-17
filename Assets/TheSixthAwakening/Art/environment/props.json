@@ -1,0 +1,240 @@
+[
+  {
+    "name": "01-shifting-prison",
+    "title": "Shifting Prison",
+    "props": [
+      {
+        "id": "hanging-chain",
+        "description": "A heavy hanging iron chain with empty wrist shackle, gently swinging left, center, right, center. Top link stays fixed.",
+        "loop": true,
+        "anchor": "top",
+        "fps": 6
+      },
+      {
+        "id": "wall-brazier",
+        "description": "A rusted wall-mounted iron brazier, amber flame flickering through four distinct shapes. Metal bracket remains identical and stationary.",
+        "loop": true,
+        "anchor": "center",
+        "fps": 6
+      },
+      {
+        "id": "cell-gate",
+        "description": "A self-contained rectangular stone doorframe with iron portcullis: fully closed, one-third raised, two-thirds raised, fully open. Frame stays fixed; do not include a wall beyond the frame.",
+        "loop": false,
+        "anchor": "bottom",
+        "fps": 8
+      },
+      {
+        "id": "chain-winch",
+        "description": "A compact wall-mounted iron winch and toothed wheel with a short captive chain, wheel rotates through four evenly spaced phases; mount stationary.",
+        "loop": true,
+        "anchor": "center",
+        "fps": 6
+      }
+    ]
+  },
+  {
+    "name": "02-burning-rooftops",
+    "title": "Burning Rooftops",
+    "props": [
+      {
+        "id": "torn-banner",
+        "description": "A short crimson torn banner hanging from a fixed horizontal iron bracket, four wind-blown cloth shapes, bracket stationary.",
+        "loop": true,
+        "anchor": "top",
+        "fps": 6
+      },
+      {
+        "id": "smoking-chimney",
+        "description": "A short soot-black brick chimney with a SMALL attached smoke plume curling through four phases; no sprawling smoke cloud.",
+        "loop": true,
+        "anchor": "bottom",
+        "fps": 6
+      },
+      {
+        "id": "burning-timber",
+        "description": "A compact pile of broken roof timbers with attached orange flames flickering; timbers stay identical and fixed.",
+        "loop": true,
+        "anchor": "bottom",
+        "fps": 6
+      },
+      {
+        "id": "roof-hatch",
+        "description": "A compact roof access hatch in a self-contained short slate-roof base, closed then partly opened then further opened then fully open; hinge and base stay fixed.",
+        "loop": false,
+        "anchor": "bottom",
+        "fps": 8
+      }
+    ]
+  },
+  {
+    "name": "03-hall-of-stolen-voices",
+    "title": "Hall of Stolen Voices",
+    "props": [
+      {
+        "id": "voice-vessel",
+        "description": "A single sealed glass voice vessel in a bronze cradle, pale teal mist swirls inside through four phases; no faces or figures, cradle stays fixed.",
+        "loop": true,
+        "anchor": "bottom",
+        "fps": 6
+      },
+      {
+        "id": "resonance-bell",
+        "description": "An antique bronze resonance bell hanging from a short fixed bracket, gently swings left-center-right-center; no detached sound rings.",
+        "loop": true,
+        "anchor": "top",
+        "fps": 6
+      },
+      {
+        "id": "voice-cabinet",
+        "description": "A compact bronze and dark wood cabinet holding small sealed voice vessels, cabinet door goes closed, partly open, further open, fully open. Cabinet frame stays fixed.",
+        "loop": false,
+        "anchor": "bottom",
+        "fps": 8
+      },
+      {
+        "id": "resonator-wheel",
+        "description": "A wall-mounted bronze acoustic resonator with inner patterned disk turning four phases, subtle pale teal inner glow, fixed outer ring.",
+        "loop": true,
+        "anchor": "center",
+        "fps": 6
+      }
+    ]
+  },
+  {
+    "name": "04-corrupted-sanctuary",
+    "title": "Corrupted Sanctuary",
+    "props": [
+      {
+        "id": "candle-stand",
+        "description": "An aged brass three-candle stand, small ivory candles with gently flickering flames; stand and wax forms stationary.",
+        "loop": true,
+        "anchor": "bottom",
+        "fps": 6
+      },
+      {
+        "id": "sanctuary-drape",
+        "description": "Tattered ivory ceremonial cloth hanging from a short fixed bronze rail, subtle wind through four distinct fabric positions, no real-world religious symbols.",
+        "loop": true,
+        "anchor": "top",
+        "fps": 6
+      },
+      {
+        "id": "false-reunion-shrine",
+        "description": "A small self-contained empty stone shrine with incomplete halo ring and violet inner crystal light pulsing dim-bright-bright-dim; no person or religious symbol, stone stationary.",
+        "loop": true,
+        "anchor": "bottom",
+        "fps": 6
+      },
+      {
+        "id": "sanctuary-door",
+        "description": "A freestanding compact pointed stone doorway with paired ivory metal doors opening closed, partly open, further open, fully open; frame stationary.",
+        "loop": false,
+        "anchor": "bottom",
+        "fps": 8
+      }
+    ]
+  },
+  {
+    "name": "05-mirror-arena",
+    "title": "Mirror Arena",
+    "props": [
+      {
+        "id": "cracked-mirror",
+        "description": "A freestanding cracked mirror in narrow silver guardian-style frame, a pale blue glint travels across its glass in four phases; no faces or reflected scenery, frame stationary.",
+        "loop": true,
+        "anchor": "bottom",
+        "fps": 6
+      },
+      {
+        "id": "orbiting-shards",
+        "description": "A compact cluster of three mirror shards orbiting a small fixed dark metallic core; all shards stay close to the core within a compact silhouette, four clear positions.",
+        "loop": true,
+        "anchor": "center",
+        "fps": 6
+      },
+      {
+        "id": "guardian-standard",
+        "description": "A desaturated silver-gray torn guardian cloth standard on a short fixed wall bracket, gently ripples through four phases.",
+        "loop": true,
+        "anchor": "top",
+        "fps": 6
+      },
+      {
+        "id": "mirror-seal",
+        "description": "A self-contained framed circular mirror seal: intact, thin crack glow, central pieces folding away, open empty central ring. Outer frame stationary, no scattered flying debris.",
+        "loop": false,
+        "anchor": "center",
+        "fps": 8
+      }
+    ]
+  },
+  {
+    "name": "06a-collapsing-dream-arena",
+    "title": "Collapsing Dream Arena",
+    "props": [
+      {
+        "id": "floating-rubble",
+        "description": "One compact floating block of black stone with gold seams and two small closely orbiting fragments, four gentle bobbing phases; no sprawling debris.",
+        "loop": true,
+        "anchor": "center",
+        "fps": 6
+      },
+      {
+        "id": "reality-rift",
+        "description": "A compact broken oval black-and-gold stone frame containing a narrow cold-blue reality fissure that pulses through four shapes, outer frame remains fixed.",
+        "loop": true,
+        "anchor": "center",
+        "fps": 6
+      },
+      {
+        "id": "dream-chain",
+        "description": "A short hanging ornamental black-and-gold chain with pointed pendant, four gentle swaying positions with top link fixed.",
+        "loop": true,
+        "anchor": "top",
+        "fps": 6
+      },
+      {
+        "id": "fracturing-pillar",
+        "description": "A short self-contained black stone pillar with gold veins: intact, hairline cracks, widening cracks, top section sagging into compact rubble at the base. No debris outside the cell.",
+        "loop": false,
+        "anchor": "bottom",
+        "fps": 8
+      }
+    ]
+  },
+  {
+    "name": "06b-real-throne-room",
+    "title": "Real Throne Room",
+    "props": [
+      {
+        "id": "dream-engine",
+        "description": "A compact freestanding black-and-gold dream engine: three offset incomplete metal rings rotating around an ember core on a fixed stone plinth, four phases, ancient gothic mechanism not futuristic technology.",
+        "loop": true,
+        "anchor": "bottom",
+        "fps": 6
+      },
+      {
+        "id": "throne-brazier",
+        "description": "A heavy black iron brazier with restrained gold trim, small ember-orange flames flickering through four phases; bowl and pedestal fixed.",
+        "loop": true,
+        "anchor": "bottom",
+        "fps": 6
+      },
+      {
+        "id": "captive-shackle",
+        "description": "A single empty heavy iron wrist shackle attached to a fixed short chain: locked, lock shifting, cuff partly opening, cuff fully open. No wrist or prisoner.",
+        "loop": false,
+        "anchor": "top",
+        "fps": 8
+      },
+      {
+        "id": "royal-banner",
+        "description": "A short tattered black banner with simple tarnished gold trim hanging from a fixed iron rail, four slow cloth ripple phases, no text or crest lettering.",
+        "loop": true,
+        "anchor": "top",
+        "fps": 6
+      }
+    ]
+  }
+]

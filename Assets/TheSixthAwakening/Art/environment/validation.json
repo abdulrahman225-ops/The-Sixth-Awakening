@@ -1,0 +1,72 @@
+[
+  {
+    "allFramesWithinPadding": true,
+    "props": 4,
+    "allFramesPopulated": true,
+    "frames": 16,
+    "level": "01-shifting-prison",
+    "sourceWidth": 1254,
+    "sourceCornerAlpha": 0,
+    "sourceHeight": 1254
+  },
+  {
+    "allFramesWithinPadding": true,
+    "props": 4,
+    "allFramesPopulated": true,
+    "frames": 16,
+    "level": "02-burning-rooftops",
+    "sourceWidth": 1254,
+    "sourceCornerAlpha": 0,
+    "sourceHeight": 1254
+  },
+  {
+    "allFramesWithinPadding": true,
+    "props": 4,
+    "allFramesPopulated": true,
+    "frames": 16,
+    "level": "03-hall-of-stolen-voices",
+    "sourceWidth": 1254,
+    "sourceCornerAlpha": 0,
+    "sourceHeight": 1254
+  },
+  {
+    "allFramesWithinPadding": true,
+    "props": 4,
+    "allFramesPopulated": true,
+    "frames": 16,
+    "level": "04-corrupted-sanctuary",
+    "sourceWidth": 1254,
+    "sourceCornerAlpha": 0,
+    "sourceHeight": 1254
+  },
+  {
+    "allFramesWithinPadding": true,
+    "props": 4,
+    "allFramesPopulated": true,
+    "frames": 16,
+    "level": "05-mirror-arena",
+    "sourceWidth": 1254,
+    "sourceCornerAlpha": 0,
+    "sourceHeight": 1254
+  },
+  {
+    "allFramesWithinPadding": true,
+    "props": 4,
+    "allFramesPopulated": true,
+    "frames": 16,
+    "level": "06a-collapsing-dream-arena",
+    "sourceWidth": 1254,
+    "sourceCornerAlpha": 0,
+    "sourceHeight": 1254
+  },
+  {
+    "allFramesWithinPadding": true,
+    "props": 4,
+    "allFramesPopulated": true,
+    "frames": 16,
+    "level": "06b-real-throne-room",
+    "sourceWidth": 1254,
+    "sourceCornerAlpha": 0,
+    "sourceHeight": 1254
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/ground-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-left",
+    "width": 299,
+    "setting": "01-shifting-prison",
+    "height": 257
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/ground-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-middle",
+    "width": 303,
+    "setting": "01-shifting-prison",
+    "height": 202
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/ground-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-right",
+    "width": 339,
+    "setting": "01-shifting-prison",
+    "height": 222
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/wall-block.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "wall-block",
+    "width": 229,
+    "setting": "01-shifting-prison",
+    "height": 242
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/ledge-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-left",
+    "width": 292,
+    "setting": "01-shifting-prison",
+    "height": 228
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/ledge-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-middle",
+    "width": 305,
+    "setting": "01-shifting-prison",
+    "height": 143
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/ledge-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-right",
+    "width": 327,
+    "setting": "01-shifting-prison",
+    "height": 193
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/small-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "small-platform",
+    "width": 218,
+    "setting": "01-shifting-prison",
+    "height": 126
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/step-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-up",
+    "width": 290,
+    "setting": "01-shifting-prison",
+    "height": 212
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/step-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-down",
+    "width": 289,
+    "setting": "01-shifting-prison",
+    "height": 211
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/slope-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-up",
+    "width": 305,
+    "setting": "01-shifting-prison",
+    "height": 207
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/slope-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-down",
+    "width": 292,
+    "setting": "01-shifting-prison",
+    "height": 210
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/spikes.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "spikes",
+    "width": 270,
+    "setting": "01-shifting-prison",
+    "height": 153
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/moving-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "moving-platform",
+    "width": 297,
+    "setting": "01-shifting-prison",
+    "height": 125
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/breakable-intact.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-intact",
+    "width": 282,
+    "setting": "01-shifting-prison",
+    "height": 96
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/01-shifting-prison/breakable-cracked.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-cracked",
+    "width": 278,
+    "setting": "01-shifting-prison",
+    "height": 93
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/ground-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-left",
+    "width": 311,
+    "setting": "02-burning-rooftops",
+    "height": 276
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/ground-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-middle",
+    "width": 324,
+    "setting": "02-burning-rooftops",
+    "height": 161
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/ground-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-right",
+    "width": 333,
+    "setting": "02-burning-rooftops",
+    "height": 249
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/wall-block.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "wall-block",
+    "width": 251,
+    "setting": "02-burning-rooftops",
+    "height": 174
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/ledge-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-left",
+    "width": 293,
+    "setting": "02-burning-rooftops",
+    "height": 173
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/ledge-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-middle",
+    "width": 321,
+    "setting": "02-burning-rooftops",
+    "height": 123
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/ledge-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-right",
+    "width": 309,
+    "setting": "02-burning-rooftops",
+    "height": 161
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/small-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "small-platform",
+    "width": 225,
+    "setting": "02-burning-rooftops",
+    "height": 125
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/step-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-up",
+    "width": 315,
+    "setting": "02-burning-rooftops",
+    "height": 193
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/step-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-down",
+    "width": 305,
+    "setting": "02-burning-rooftops",
+    "height": 195
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/slope-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-up",
+    "width": 330,
+    "setting": "02-burning-rooftops",
+    "height": 194
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/slope-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-down",
+    "width": 319,
+    "setting": "02-burning-rooftops",
+    "height": 194
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/spikes.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "spikes",
+    "width": 314,
+    "setting": "02-burning-rooftops",
+    "height": 128
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/moving-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "moving-platform",
+    "width": 308,
+    "setting": "02-burning-rooftops",
+    "height": 115
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/breakable-intact.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-intact",
+    "width": 301,
+    "setting": "02-burning-rooftops",
+    "height": 134
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/02-burning-rooftops/breakable-cracked.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-cracked",
+    "width": 307,
+    "setting": "02-burning-rooftops",
+    "height": 139
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/ground-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-left",
+    "width": 297,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 263
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/ground-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-middle",
+    "width": 320,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 231
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/ground-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-right",
+    "width": 346,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 245
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/wall-block.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "wall-block",
+    "width": 274,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 217
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/ledge-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-left",
+    "width": 269,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 158
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/ledge-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-middle",
+    "width": 310,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 123
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/ledge-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-right",
+    "width": 300,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 157
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/small-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "small-platform",
+    "width": 248,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 139
+  },
+  {
+    "flipX": true,
+    "file": "Art/Ground/03-hall-of-stolen-voices/step-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-up",
+    "width": 298,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 226
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/step-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-down",
+    "width": 322,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 228
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/slope-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-up",
+    "width": 330,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 228
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/slope-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-down",
+    "width": 308,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 227
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/spikes.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "spikes",
+    "width": 285,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 169
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/moving-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "moving-platform",
+    "width": 316,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 170
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/breakable-intact.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-intact",
+    "width": 314,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 160
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/03-hall-of-stolen-voices/breakable-cracked.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-cracked",
+    "width": 306,
+    "setting": "03-hall-of-stolen-voices",
+    "height": 161
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/ground-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-left",
+    "width": 314,
+    "setting": "04-corrupted-sanctuary",
+    "height": 296
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/ground-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-middle",
+    "width": 331,
+    "setting": "04-corrupted-sanctuary",
+    "height": 199
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/ground-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-right",
+    "width": 346,
+    "setting": "04-corrupted-sanctuary",
+    "height": 222
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/wall-block.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "wall-block",
+    "width": 281,
+    "setting": "04-corrupted-sanctuary",
+    "height": 298
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/ledge-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-left",
+    "width": 305,
+    "setting": "04-corrupted-sanctuary",
+    "height": 146
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/ledge-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-middle",
+    "width": 312,
+    "setting": "04-corrupted-sanctuary",
+    "height": 137
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/ledge-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-right",
+    "width": 317,
+    "setting": "04-corrupted-sanctuary",
+    "height": 161
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/small-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "small-platform",
+    "width": 245,
+    "setting": "04-corrupted-sanctuary",
+    "height": 144
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/step-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-up",
+    "width": 305,
+    "setting": "04-corrupted-sanctuary",
+    "height": 163
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/step-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-down",
+    "width": 305,
+    "setting": "04-corrupted-sanctuary",
+    "height": 164
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/slope-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-up",
+    "width": 335,
+    "setting": "04-corrupted-sanctuary",
+    "height": 169
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/slope-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-down",
+    "width": 332,
+    "setting": "04-corrupted-sanctuary",
+    "height": 168
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/spikes.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "spikes",
+    "width": 304,
+    "setting": "04-corrupted-sanctuary",
+    "height": 163
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/moving-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "moving-platform",
+    "width": 310,
+    "setting": "04-corrupted-sanctuary",
+    "height": 150
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/breakable-intact.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-intact",
+    "width": 315,
+    "setting": "04-corrupted-sanctuary",
+    "height": 174
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/04-corrupted-sanctuary/breakable-cracked.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-cracked",
+    "width": 312,
+    "setting": "04-corrupted-sanctuary",
+    "height": 174
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/ground-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-left",
+    "width": 286,
+    "setting": "05-mirror-arena",
+    "height": 318
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/ground-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-middle",
+    "width": 310,
+    "setting": "05-mirror-arena",
+    "height": 189
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/ground-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-right",
+    "width": 310,
+    "setting": "05-mirror-arena",
+    "height": 199
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/wall-block.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "wall-block",
+    "width": 285,
+    "setting": "05-mirror-arena",
+    "height": 188
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/ledge-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-left",
+    "width": 280,
+    "setting": "05-mirror-arena",
+    "height": 145
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/ledge-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-middle",
+    "width": 312,
+    "setting": "05-mirror-arena",
+    "height": 131
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/ledge-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-right",
+    "width": 276,
+    "setting": "05-mirror-arena",
+    "height": 134
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/small-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "small-platform",
+    "width": 233,
+    "setting": "05-mirror-arena",
+    "height": 130
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/step-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-up",
+    "width": 282,
+    "setting": "05-mirror-arena",
+    "height": 178
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/step-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-down",
+    "width": 290,
+    "setting": "05-mirror-arena",
+    "height": 178
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/slope-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-up",
+    "width": 309,
+    "setting": "05-mirror-arena",
+    "height": 187
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/slope-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-down",
+    "width": 293,
+    "setting": "05-mirror-arena",
+    "height": 186
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/spikes.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "spikes",
+    "width": 248,
+    "setting": "05-mirror-arena",
+    "height": 155
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/moving-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "moving-platform",
+    "width": 346,
+    "setting": "05-mirror-arena",
+    "height": 144
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/breakable-intact.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-intact",
+    "width": 313,
+    "setting": "05-mirror-arena",
+    "height": 152
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/05-mirror-arena/breakable-cracked.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-cracked",
+    "width": 305,
+    "setting": "05-mirror-arena",
+    "height": 159
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/ground-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-left",
+    "width": 282,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 305
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/ground-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-middle",
+    "width": 294,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 202
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/ground-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-right",
+    "width": 308,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 306
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/wall-block.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "wall-block",
+    "width": 256,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 295
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/ledge-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-left",
+    "width": 279,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 210
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/ledge-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-middle",
+    "width": 292,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 140
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/ledge-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-right",
+    "width": 306,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 207
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/small-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "small-platform",
+    "width": 250,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 140
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/step-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-up",
+    "width": 288,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 218
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/step-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-down",
+    "width": 289,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 235
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/slope-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-up",
+    "width": 297,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 230
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/slope-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-down",
+    "width": 290,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 231
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/spikes.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "spikes",
+    "width": 292,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 177
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/moving-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "moving-platform",
+    "width": 311,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 139
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/breakable-intact.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-intact",
+    "width": 289,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 151
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06a-collapsing-dream-arena/breakable-cracked.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-cracked",
+    "width": 286,
+    "setting": "06a-collapsing-dream-arena",
+    "height": 153
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/ground-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-left",
+    "width": 266,
+    "setting": "06b-real-throne-room",
+    "height": 241
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/ground-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-middle",
+    "width": 320,
+    "setting": "06b-real-throne-room",
+    "height": 189
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/ground-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ground-right",
+    "width": 280,
+    "setting": "06b-real-throne-room",
+    "height": 239
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/wall-block.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "wall-block",
+    "width": 265,
+    "setting": "06b-real-throne-room",
+    "height": 217
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/ledge-left.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-left",
+    "width": 238,
+    "setting": "06b-real-throne-room",
+    "height": 171
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/ledge-middle.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-middle",
+    "width": 293,
+    "setting": "06b-real-throne-room",
+    "height": 121
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/ledge-right.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "ledge-right",
+    "width": 241,
+    "setting": "06b-real-throne-room",
+    "height": 172
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/small-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "small-platform",
+    "width": 216,
+    "setting": "06b-real-throne-room",
+    "height": 144
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/step-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-up",
+    "width": 283,
+    "setting": "06b-real-throne-room",
+    "height": 174
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/step-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "step-down",
+    "width": 287,
+    "setting": "06b-real-throne-room",
+    "height": 175
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/slope-up.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-up",
+    "width": 325,
+    "setting": "06b-real-throne-room",
+    "height": 178
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/slope-down.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "slope-down",
+    "width": 310,
+    "setting": "06b-real-throne-room",
+    "height": 178
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/spikes.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "spikes",
+    "width": 269,
+    "setting": "06b-real-throne-room",
+    "height": 145
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/moving-platform.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "moving-platform",
+    "width": 303,
+    "setting": "06b-real-throne-room",
+    "height": 130
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/breakable-intact.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-intact",
+    "width": 297,
+    "setting": "06b-real-throne-room",
+    "height": 131
+  },
+  {
+    "flipX": false,
+    "file": "Art/Ground/06b-real-throne-room/breakable-cracked.png",
+    "pixelsPerUnit": 128,
+    "collision": "manual: match walkable surface, exclude decorative trim",
+    "id": "breakable-cracked",
+    "width": 298,
+    "setting": "06b-real-throne-room",
+    "height": 131
+  }
+]
